@@ -23,4 +23,4 @@
 ### 📬 Connect with Me
 
 * **Email:** bardia.eskandarian.work@gmail.com
-* **LinkedIn:** [Bardia Eskandarian](https://linkedin.com/in/bardia-eskandarian-457ba435b)
+* **LinkedIn:** [Bardia Eskandarian](https://www.linkedin.com/in/bardia-eskandarian-457ba435b/)
