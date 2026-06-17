@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Bardia Eskandarian 👋
+### Frontend & Web Developer
 
-<!--
-**BardiaEskandarian/BardiaEskandarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A results-driven Web Developer and Computer Engineering student with over 4 years of hands-on experience in designing, developing, and optimizing dynamic, user-friendly web applications. Highly committed to continuous learning and delivering clean, efficient, and scalable code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+* **Languages:** JavaScript, TypeScript, C#, HTML5, CSS3
+* **Frameworks & Libraries:** ReactJS, NextJS, Tailwind CSS, Bootstrap, Sass (SCSS)
+* **Methodologies & Tools:** Git & GitHub, RESTful APIs, Responsive Web Design, SEO & Performance Optimization, UI/UX Principles
+
+---
+
+### 🎓 Experience & Education
+
+* **Teaching Assistant (TA)** – University of Isfahan (Bahman 1403)
+* **B.Sc. in Computer Engineering** – University of Isfahan & IAUN
+
+---
+
+### 📬 Connect with Me
+
+* **Email:** bardia.eskandarian.work@gmail.com
+* **LinkedIn:** [Bardia Eskandarian](https://linkedin.com/in/bardia-eskandarian-457ba435b)
